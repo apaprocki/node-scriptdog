@@ -1,0 +1,21 @@
+{
+  "name": "scriptdog",
+  "version": "0.1.0",
+  "main": "build/Release/scriptdog",
+  "description": "Script watchdog",
+  "scripts": {
+    "install": "node-gyp configure build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apaprocki/node-scriptdog.git"
+  },
+  "maintainers": [
+    { "name": "Andrew Paprocki", "email": "andrew@ishiboo.com" }
+  ],
+  "keywords": [
+    "watchdog", "script", "timeout"
+  ],
+  "license": "MIT",
+  "engines": { "node": ">=0.8" }
+}
