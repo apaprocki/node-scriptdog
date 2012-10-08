@@ -4,6 +4,13 @@ Scriptdog
 Configurable watchdog timer that interrupts V8 from executing Javascript
 code that is either stuck in an infinite loop or is just taking too long.
 
+Installation
+------------
+
+```
+npm install scriptdog
+```
+
 Usage
 -----
 
