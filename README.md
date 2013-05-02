@@ -1,4 +1,11 @@
-[![build status](https://secure.travis-ci.org/apaprocki/node-scriptdog.png)](http://travis-ci.org/apaprocki/node-scriptdog)
+OBSOLETE
+========
+
+This project is now obsolete and has been removed from `npm`.  I modified
+Node itself to add a `timeout` parameter to calls within the `vm` module.
+This support landed in joyent/node@c081809344bd6e35c49a1c573b954583c0e3a27d.
+
+
 Scriptdog
 =========
 
